@@ -22,7 +22,7 @@ This org is where the project-side stuff lives, starting with the installer and 
 
 ## Quick Start
 
-1. Install or restore CS:GO Legacy on Steam.
+1. Install CS:GO from steam.
 2. Download the latest [GRMod Installer](https://github.com/Global-Retake/GRModInstaller/releases/latest).
 3. Use the [setup docs](https://globalretake.com/docs) if anything needs fixing.
 4. Join a server.
