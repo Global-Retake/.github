@@ -16,7 +16,7 @@
   </a>
 </p>
 
-Global Retake is a CS:GO Legacy community. We run public servers, keep setup docs and downloads in one place, and try to make getting back into the game less of a pain.
+Global Retake is a CS:GO community. Our plan is to bring back CS:GO the most authentic way possible.
 
 This org is where the project-side stuff lives, starting with the installer and shared community files.
 
@@ -45,7 +45,7 @@ connect 51.75.147.102:27016  // Global Retake Competitive
 ## Repositories
 
 - [GRModInstaller](https://github.com/Global-Retake/GRModInstaller) is the Windows installer for GRMod.
-- [.github](https://github.com/Global-Retake/.github) holds the org profile and shared GitHub files.
+- [GRMod](https://github.com/Global-Retake/GRMod) is a mod that brings back the life to CSGO.
 
 ## Community
 
